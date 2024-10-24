@@ -1,5 +1,5 @@
 # 💫 About Me:
-🏀 It's my hobby to be in and learn about tech industry <br>🌱 I'm currently on a mission to build a SaaS and learn about God<br>🫵 looking for a companion who has same interest <br>🎭 A fact that I started learning small technical things at very young age of 8
+🏀 It's my hobby to be in and learn about tech industry <br>🌱 I'm currently on a mission to build a SaaS and learn about God<br>🫵 looking for a companion who has same interest <br>🎭 It's interesting to note that I began learning technical stuff when I was just 8 years old, with a goal to create my own OS
 
 
 ## 🌐 Socials:
