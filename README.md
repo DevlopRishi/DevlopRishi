@@ -21,7 +21,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=DevlopRishi&icon=5&color=4)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> ## Hi there, thanks for visiting my GitHub profile 👋
 
 <!--
 **DevlopRishi/DevlopRishi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
