@@ -31,14 +31,14 @@
 ---
 
 ## 📊 GitHub Stats  
-[![](https://raw.githubusercontent.com/DevlopRishi/github-profile-summary-cards-example/master/profile-summary-card-output/aura/0-profile-details.svg)](https://github.com/DevlopRishi/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/DevlopRishi/github-profile-summary-cards-example/master/profile-summary-card-output/aura/1-repos-per-language.svg)](https://github.com/DevlopRishi/github-profile-summary-cards) [![](https://raw.githubusercontent.com/DevlopRishi/github-profile-summary-cards-example/master/profile-summary-card-output/aura/2-most-commit-language.svg)](https://github.com/DevlopRishi/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/DevlopRishi/github-profile-summary-cards-example/master/profile-summary-card-output/aura/3-stats.svg)](https://github.com/DevlopRishi/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/aura/4-productive-time.svg)](https://github.com/DevlopRishi/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/jolly/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/jolly/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/jolly/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/jolly/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/jolly/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-<div style="display: flex; justify-content: space-around;">
+<!--<div style="display: flex; justify-content: space-around;">
   <img src="https://github-readme-stats.vercel.app/api?username=DevlopRishi&theme=neon&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="45%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevlopRishi&theme=neon&hide_border=true" alt="GitHub Streak" width="45%">
-</div>  
+</div>  -->
 
 ### 📈 Top Languages  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DevlopRishi&theme=neon&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
