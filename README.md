@@ -33,8 +33,6 @@
 ## 📊 GitHub Stats  
 ![](https://github-readme-stats.vercel.app/api?username=DevlopRishi&theme=neon&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DevlopRishi&theme=neon&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DevlopRishi&theme=neon&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
 <!--<div style="display: flex; justify-content: space-around;">
   <img src="https://github-readme-stats.vercel.app/api?username=DevlopRishi&theme=neon&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="45%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevlopRishi&theme=neon&hide_border=true" alt="GitHub Streak" width="45%">
