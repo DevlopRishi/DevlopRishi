@@ -31,9 +31,9 @@
 ---
 
 ## 📊 GitHub Stats  
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/jolly/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/jolly/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/jolly/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/jolly/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/jolly/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![](https://github-readme-stats.vercel.app/api?username=DevlopRishi&theme=neon&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=DevlopRishi&theme=neon&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DevlopRishi&theme=neon&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 <!--<div style="display: flex; justify-content: space-around;">
   <img src="https://github-readme-stats.vercel.app/api?username=DevlopRishi&theme=neon&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="45%">
