@@ -1,5 +1,5 @@
 # 🌟 Welcome to My GitHub World!  
-**hi bro! Thanks for stopping by 👋**  
+**Hi bro! Thanks for stopping by 👋**  
 
 ## 💫 About Me
 🌱 **Mission:** Building a SaaS product and deepening my understanding of God.  
