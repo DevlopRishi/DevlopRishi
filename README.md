@@ -1,5 +1,5 @@
 # 🌟 Welcome to My GitHub World!  
-**Hi bro! Thanks for stopping by 👋**  
+**Howdy bro! Thanks for stopping by 👋**  
 
 ## 💫 About Me
 🌱 **Mission:** Building a SaaS product and deepening my understanding of God.  
@@ -61,7 +61,7 @@
 ---
 
 ## 🌟 Visitor Count  
-[![](https://visitcount.itsvg.in/api?id=DevlopRishi&icon=5&color=4)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=DevlopRishi&icon=5&color=1)](https://visitcount.itsvg.in)
 
 ---
 
