@@ -8,7 +8,9 @@
 🫵 **Looking for a companion:** Who shares the same passion for tech and spirituality.  
 🧐 **Fun Fact:** Despite my enthusiasm, I often feel like I haven't truly "mastered" anything yet.  
 
+
 ---
+
 
 ## 🌐 Connect with Me:
 | Platform   | Link                                                                                           |
