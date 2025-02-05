@@ -5,6 +5,7 @@
 🌱 **Mission:** Building a SaaS product and deepening my understanding of God.  
 🎭 **Tech Journey:** Began my journey at 8, aiming to create my own OS and AI.  
 🏀 **Hobbies:** Exploring the tech world and learning its wonders.  
+
 🫵 **Looking for a companion:** Who shares the same passion for tech and spirituality.  
 🧐 **Fun Fact:** Despite my enthusiasm, I often feel like I haven't truly "mastered" anything yet.  
 
