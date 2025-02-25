@@ -72,21 +72,7 @@
     <img src="https://raw.githubusercontent.com/omidnikrah/profile-activity-generator/master/demo.png"/>
 </div>
 
-**What’s next? Let’s keep building something awesome together! :) 🚀**
-
-
-
-
-
-
-
-
-
-
-
-
-he
-
+**What’s next? Let’s keep building something awesome together!** :) 🚀
 
 
 
