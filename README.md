@@ -1,4 +1,3 @@
-
 # 🌟  Welcome to My GitHub World!  
 **Howdy bro! Thanks for stopping by 👋**  
 
@@ -64,17 +63,12 @@
 ---
 
 ## 🌟 Visitor Count  
-[![](https://visitcount.itsvg.in/api?id=DevlopRishi&icon=5&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=DevlopRishi&icon=5&color=1)](https://visitcount.itsvg.in)]
 
 ---
 
-<div align="center">
-
-    <img src="https://raw.githubusercontent.com/omidnikrah/profile-activity-generator/master/demo.png"/>
-
+<div align="center"><img src="https://raw.githubusercontent.com/omidnikrah/profile-activity-generator/master/demo.png"/>
 </div>
 
 **What’s next? Let’s keep building something awesome together!** :) 🚀
-
-
 
