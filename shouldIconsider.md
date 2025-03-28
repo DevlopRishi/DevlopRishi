@@ -1,6 +1,6 @@
 # 👋 Hey there! Thanks for visiting my profile!
 
-## ✨ About Me
+## ✨ About Me—Human
 
 ### 🚀 My Tech Origin Story
 
