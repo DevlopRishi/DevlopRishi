@@ -63,7 +63,7 @@
 ---
 
 ## 🌟 Visitor Count  
-[![](https://visitcount.itsvg.in/api?id=DevlopRishi&icon=5&color=1)](https://visitcount.itsvg.in)]
+[![](https://visitcount.itsvg.in/api?id=DevlopRishi&icon=5&color=1)](https://visitcount.itsvg.in)
 
 ---
 
