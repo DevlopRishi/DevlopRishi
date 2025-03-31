@@ -1,6 +1,6 @@
 # 👋 Hey there! Thanks for visiting my profile!
 
-## ✨ About Me—Human
+## ✨ About Me—An Avrage Human (hopefully)
 
 ### 🚀 My Tech Origin Story
 
