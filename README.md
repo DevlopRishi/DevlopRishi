@@ -7,7 +7,7 @@
 🏀 **Hobbies:** Exploring the tech world and learning its wonders...  
 
 🫵 **Looking for a companion:** Who shares the same passion for tech and spirituality.  
-🧐 **Fun Fact:** Despite my enthusiasm, I often feel like I haven't truly "mastered" anything yet.  
+🧐 **Fun Fact:** Despite my enthusiasm, I often feel like I haven't truly "mastered" anything yet 😔.   
 
 ---
 
