@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
   <h1> Hey there! I'm Rishi (DevlopRishi) 👋 </h1>
   <p>Welcome to my digital playground! Glad you dropped by my little corner of the code-verse.</p>
-  <img src="https://raw.githubusercontent.com/devloprishi/devloprishi/main/github-metrics.svg" alt="Metrics" />
+  <p><i>(Pssst... I use Arch btw 🐧)</i></p>
 </div>
 
 ---
@@ -30,35 +30,13 @@
 
 ---
 
-## 🛠️ My Tech Toolkit: Weapons of Code Creation!
+## 🛠️ My Core Tech Toolkit:
 
 *Maybe not "mastered" everything, but definitely enjoy wielding these!* 😉
 
-**Languages & Frameworks:**
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> 
-  <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/> 
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> 
-  <!-- Add others like JavaScript, React, Vue, etc. if you use them! -->
-  <!-- <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>  -->
-</p>
-
-**Cloud & Infrastructure:**
-<p align="center">
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/> 
-  <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/> 
-  <img alt="Azure" src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/> 
-  <!-- Add Docker, Kubernetes, etc. if applicable -->
-  <!-- <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>  -->
-</p>
-
-**Design Tools:**
-<p align="center">
-  <img alt="Photoshop" src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white"/> 
-  <img alt="Canva" src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white"/> 
-  <img alt="GIMP" src="https://img.shields.io/badge/GIMP-5C5547?style=for-the-badge&logo=gimp&logoColor=white"/> 
-  <!-- Add Figma, Adobe XD, etc. if you use them -->
-  <!-- <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>  -->
 </p>
 
 ---
@@ -88,7 +66,8 @@
 ## 🌳 My Digital Garden: Contribution Graph
 
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=DevlopRishi&theme=dracula&hide_border=true&area=true" alt="DevlopRishi's Contribution Graph" />
+  <!-- Using the Vercel hosted version, often more reliable -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevlopRishi&theme=dracula&hide_border=true&area=true" alt="DevlopRishi's Contribution Graph" />
 </div>
 <!-- Graph themes: dracula, github, github_dark, gruvbox, light, dark, minimalist, etc. -->
 
@@ -117,12 +96,19 @@
 ## 👀 Who's Been Peeking? (Visitor Count)
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=DevlopRishi&icon=5&color=1&pretty=true" alt="Visitor Count"/>
-  <!-- You can change the icon= (0-10) and color= (0-12) parameters -->
+  <!-- Trying a simplified URL for the visitor counter -->
+  <img src="https://visitcount.itsvg.in/api?id=DevlopRishi&icon=5&color=1" alt="Visitor Count"/>
+  <!-- If this still doesn't work, the service might be down or you might need to remove it -->
 </div>
 
 ---
 
-<p align="center">
-  <i>🚀 Let's build something amazing together! Or at least have fun trying. 😉</i>
-</p>
+<div align="center">
+
+```bash
+   /\_/\
+  ( o.o )
+   > ^ <
+  /_ | _\
+ // R I \\
+```
