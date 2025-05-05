@@ -7,7 +7,7 @@
 
 ---
 
-## 🚀 About Me: The TL;DR Version
+## 🚀 About Me:
 
 *   🌱 **Current Quest:** Forging a mighty SaaS product and exploring the infinite code of the universe (and my understanding of God!).
 *   🧑‍💻 **Origin Story:** My tech adventure kicked off at the ripe old age of 8! Dreamt of building my own OS and AI – still chasing those digital dragons!
@@ -89,16 +89,6 @@
   <!-- Example using github-profile-summary-cards: -->
   <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevlopRishi&theme=neon" alt="Profile Summary Card"/> -->
   <p><i>Loading recent transmissions... or maybe I'll add a cool activity feed here soon!</i> 😉</p>
-</div>
-
----
-
-## 👀 Who's Been Peeking? (Visitor Count)
-
-<div align="center">
-  <!-- Trying a simplified URL for the visitor counter -->
-  <img src="https://visitcount.itsvg.in/api?id=DevlopRishi&icon=5&color=1" alt="Visitor Count"/>
-  <!-- If this still doesn't work, the service might be down or you might need to remove it -->
 </div>
 
 ---
