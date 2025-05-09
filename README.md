@@ -7,13 +7,13 @@
 
 ---
 
-## 🚀 About Me:
+## 🚀 About Me :
 
 *   🌱 **Current Quest:** Forging a mighty SaaS product and exploring the infinite code of the universe (and my understanding of God!).
 *   🧑‍💻 **Origin Story:** My tech adventure kicked off at the ripe old age of 8! Dreamt of building my own OS and AI – still chasing those digital dragons!
 *   🎢 **The Ride:** Absolutely love diving deep into the tech world, learning its secrets, and occasionally breaking things (it's part of the process, right?).
-*   🤝 **Seeking Kin:** Looking for fellow travelers passionate about both the silicon and the spiritual. If you vibe with tech and deeper meanings, let's connect!
-*   😅 **Reality Check:** While I'm neck-deep in tech, I believe the learning journey *never* ends. There's always a new puzzle to solve!! #ForeverLearning
+*   🤝 **Seeking_kin:** Looking for fellow travelers passionate about both the silicon and the spiritual. If you vibe with tech and deeper meanings, let's connect!
+*   😅 **Reality_check:** While I'm neck-deep in tech, I believe the learning journey *never* ends. There's always a new puzzle to solve, and will drown soon!! #ForeverLearning
 
 ---
 
