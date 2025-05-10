@@ -4,6 +4,11 @@
   <p>Welcome to my digital playground! Glad you dropped by my little corner of the code-verse.</p>
   <p><i>(I use Arch btw!! 🐧)</i></p>
 </div>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=R1shu404&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/R1shu404?style=flat-square&label=Followers&logo=github&color=teal" alt="GitHub Followers" />
+</p>
+</div>
 
 ---
 
