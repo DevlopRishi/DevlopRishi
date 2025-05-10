@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
   <h1> Hey there! I'm Rishi (DevlopRishi) 👋 </h1>
   <p>Welcome to my digital playground! Glad you dropped by my little corner of the code-verse.</p>
-  <p><i>(Pssst... I use Arch btw 🐧)</i></p>
+  <p><i>(I use Arch btw!! 🐧)</i></p>
 </div>
 
 ---
