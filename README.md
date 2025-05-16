@@ -5,7 +5,7 @@
   <p><i>(I use Arch btw!! 🐧)</i></p>
 </div>
 <div align="center">
-<!-- <img src="https://komarev.com/ghpvc/?username=DevlopRishi&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" /> -->
+<!-- <img src="https://komarev.com/ghpvc/?username=DevlopRishi&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" /> This will be a comment forever from now on -->
   <img src="https://img.shields.io/github/followers/DevlopRishi?style=flat-square&label=Followers&logo=github&color=teal" alt="GitHub Followers" />
 </p>
 </div>
