@@ -101,7 +101,7 @@
 <div align="center">
 
 ```bash
-   /\_/\
+   /\_/\.       nya 
   ( o.o )
    > ^ <
   /_ | _\
