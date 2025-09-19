@@ -2,7 +2,7 @@
   <img    src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
   <h1> Hey there! I'm Rishi</h1>
   <p>Welcome to my digital playground! Glad you dropped by my little corner of the code-verse.</p>
-  <h2>I use Arch btw! 🐧</h2>
+  <h2>!!! I use Arch btw! 🐧</h2>
 </div>
 <div align="center">
 <!-- <img src="https://komarev.com/ghpvc/?username=DevlopRishi&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" /> -->
