@@ -7,10 +7,6 @@
 <h2 align="center">I'm Rishi!</h2>
 
 
-
-
-
-
 <div align="center">
   <img    src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
   <h1> Hey there! I'm Rishi</h1>
