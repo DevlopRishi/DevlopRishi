@@ -107,7 +107,7 @@
 
 ---
 
-<div align="center">
+<!-- <div align="center">
 
 ```bash
    /\_/\.       nya 
@@ -115,4 +115,4 @@
    > ^ <
   /_ | _\
  // N Y \\
-```
+``` -->
