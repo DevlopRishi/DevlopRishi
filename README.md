@@ -1,4 +1,4 @@
-<p align="center">
+se<p align="center">
   <a href="https://www.jagatgururampalji.org/" target="_blank">
     <img src="https://www.jagatgururampalji.org/theme/alpha-v-1.0-2024/assets/img/logo.webp" alt="Sant Rampal Ji Maharaj Logo" width="150">
   </a>
